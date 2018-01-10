@@ -6,3 +6,4 @@ A new Exeception about weblogic
 so Happy to use git
 Test branch dev
 master change content
+git test conflict
