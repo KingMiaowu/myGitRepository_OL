@@ -9,3 +9,5 @@ master change content
 git test conflict
 git merge--no-ff test
 add
+test bug branch
+
